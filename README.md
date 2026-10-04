@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sham Devsarkar 👋
 
-<!--
-**ShamDevsarkar/ShamDevsarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java Full Stack Development
+- Data Structures & Algorithms (DSA)
+- Spring Boot
+- REST APIs
+- SQL & Database Management
+
+## 💻 Programming Skills
+
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+- Java Programming Practice
+- DSA Practice
+- Full Stack Development Projects
+- AI Vision Project
+
+## 🎯 Career Goal
+
+To become a skilled Java Full Stack Developer and build real-world applications.
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sham-devsarkar-49655b352)
